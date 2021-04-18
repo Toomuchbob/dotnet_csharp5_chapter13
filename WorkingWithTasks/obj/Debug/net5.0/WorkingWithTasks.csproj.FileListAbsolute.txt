@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.exe
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.genruntimeconfig.cache

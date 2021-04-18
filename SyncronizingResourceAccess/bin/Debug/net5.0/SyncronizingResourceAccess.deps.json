@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SyncronizingResourceAccess/1.0.0": {
+        "runtime": {
+          "SyncronizingResourceAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SyncronizingResourceAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.exe
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\ref\AsyncConsole.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\ref\AsyncConsole.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.genruntimeconfig.cache

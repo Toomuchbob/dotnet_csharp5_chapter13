@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\SyncronizingResourceAccess.exe
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\SyncronizingResourceAccess.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\SyncronizingResourceAccess.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\SyncronizingResourceAccess.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\SyncronizingResourceAccess.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\ref\SyncronizingResourceAccess.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\bin\Debug\net5.0\SyncronizingResourceAccess.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\ref\SyncronizingResourceAccess.dll
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter13\SyncronizingResourceAccess\obj\Debug\net5.0\SyncronizingResourceAccess.genruntimeconfig.cache

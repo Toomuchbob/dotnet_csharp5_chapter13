@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "Chapter13",
+			"path": "."
+		},
+		{
+			"name": "WorkingWithTasks",
+			"path": "WorkingWithTasks"
+		},
+		{
+			"path": "NestedAndChildTasks"
+		},
+		{
+			"path": "SyncronizingResourceAccess"
+		},
+		{
+			"path": "AsyncConsole"
+		}
+	],
+	"settings": {}
+}
